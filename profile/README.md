@@ -1,4 +1,4 @@
-## Hi there 👋
+## 로보라이즌(Roborisen) 👋
 
 <!--
 
@@ -10,8 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-## 로보라이즌(Roborisen)
-
 For Public
 
 추후 작성.
