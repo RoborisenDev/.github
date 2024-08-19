@@ -10,4 +10,11 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-check1
+## 로보라이즌(Roborisen)
+
+For Public
+
+추후 작성.
+문의사항 : +82 10 7522 0876
+
+
